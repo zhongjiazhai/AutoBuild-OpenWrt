@@ -1,8 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
 # Lisence: MIT
-# Author: eSiPlayground
-# Youtube Channel: https://goo.gl/fvkdwm 
+# Author: Zhai_BigData
 #=================================================
 
 name: Build_x86_64
