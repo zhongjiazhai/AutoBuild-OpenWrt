@@ -1,7 +1,7 @@
 #=================================================
 # Description: Build OpenWrt using GitHub Actions
-# Lisence: MIT
-# Author: Zhai_BigData_2020_0204
+# Lisence: Zhai_BigData
+# Author: Zhai_BigData_2020_024
 #=================================================
 
 name: Build_x86_64
